@@ -1,2 +1,2 @@
-# jupyter-notebook-practice
-All the commands of the courses I have done.....
+# Sortcuts of jupyter notebook
+
