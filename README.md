@@ -1,2 +1,2 @@
-# Sortcuts of jupyter notebook
+#jupyter notebook practices
 
